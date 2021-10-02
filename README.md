@@ -1,4 +1,4 @@
-# MASMOVIL - DOCTOR GO
+# NEXT-JEST-BOILERPLATE
 
 Bootstrap a developer-friendly NextJS app configured with:
 
